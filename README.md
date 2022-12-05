@@ -4,7 +4,8 @@
 ### Desenvolvedor Full-Stack
 
 #### Habilidades
-- Programação orientada a objetos (Java, C++, Python)
+- Programação orientada a objetos (Java, TypeScript, C++, Python)
+- Frameworks Spring e Angular
 - Dados (Python, Pandas, SQL)
 
 #### Cursos
