@@ -11,5 +11,6 @@
 #### Cursos
 - Atualmente curso Ciência da Computação na UFLA
 - Introdução a Redes Neurais e Deep Learning (UFLA)
+- Curso Java
 
 ![alt text](img/ds.png)
