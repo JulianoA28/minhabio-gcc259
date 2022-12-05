@@ -1,2 +1,12 @@
 # minhabio-gcc259
-Prática avaliativa 1 da Disciplina Desenvolvimento de Software Livre (GCC259) na UFLA
+## Juliano Expedito de Andrade Godinho
+
+### Desenvolvedor Full-Stack
+
+#### Habilidades
+- Programação orientada a objetos (Java, C++, Python)
+- Dados (Python, Pandas, SQL)
+
+#### Cursos
+- Atualmente curso Ciência da Computação na UFLA
+- Introdução a Redes Neurais e Deep Learning (UFLA)
